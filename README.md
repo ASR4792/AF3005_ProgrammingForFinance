@@ -1,5 +1,5 @@
 # AF3005 - Programming for Finance 
-# Assignment 01
+# Assignment # 01
 # Smart Financial Management System - SecureBank
 
 ## Description
