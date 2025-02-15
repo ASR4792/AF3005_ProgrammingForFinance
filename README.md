@@ -109,3 +109,4 @@ Track daily currency exchange rates and provide conversion suggestions.
 ## Author
 - Ahmed Saleh Riaz
 - 22i-2289
+- BS(FT) - A
