@@ -104,3 +104,8 @@ Track daily currency exchange rates and provide conversion suggestions.
 - Open the notebook in Jupyter.
 - Ensure `ipywidgets` is installed (`pip install ipywidgets`).
 - Run each cell sequentially for interactive functionality.
+
+
+## Author
+- Ahmed Saleh Riaz
+- 22i-2289
